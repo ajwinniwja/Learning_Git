@@ -1,8 +1,1 @@
-# Learning\_Git
-
-<<<<<<< HEAD
-This is creating just for learning and GitHub and git .
-=======
-
->>>>>>> testbranch
-
+this repo is made for understanding more about git and GitHub. nothing more nothing less. 
